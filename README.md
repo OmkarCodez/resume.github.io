@@ -49,7 +49,7 @@
 - Extended support by testing AI Chabot on the different browser web pages
 
 **Software Tester @ 63 Moons Technologies Ltd (_Mar 2020 - Sept 2020_)**
-**Project - ICT Secure Connect**
+**Project - [ICT Secure Connect](https://shorturl.at/qN8fb)**
 - Developed comprehensive test plans and test cases, executed tests, and verified bug reports for
 newly updated features
 - Collaborated with the BA/DT team to address any requirement changes following static testing
@@ -57,7 +57,7 @@ newly updated features
 - Configured testing environments and created testbeds on both Windows and Linux platforms
 
 **Software Tester @ 63 Moons Technologies Ltd (_Sept 2018 - Sept 2020_)**
-**Project - Vannya Your Digital Bird Guide**
+**Project - [Vannya Your Digital Bird Guide](https://shorturl.at/pRMZh)**
 - Creating test scenarios, test cases, verifying bugs reports according to newly updated features
 - SAT test execution, re-testing, regression and closure
 - Configuring testing environment
