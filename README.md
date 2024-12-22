@@ -1,16 +1,20 @@
 # Senior Software Tester - QA
 
-#### Technical Skills and Core Competencies : MySQL, SQL, Bash/Shell Scripting, Basic Selenium with Python, Linux, JIRA, Confluence, StarTeam, Zendesk
+#### Technical Skills and Core Competencies : MySQL, SQL, Shell Scripting, Basic Selenium with Python, Linux, Postman
 
 ## Education
 - B.com | Grdae A | Mumbai University (_Mar 2017_)								       		
-- H.S.C | 75% | Maharashtra Board (_Feb 2014_)	 			        		
-- S.S.C | 78% | Maharashtra Board (_Mar 2012_)
+- H.S.C | 75%     | Maharashtra Board (_Feb 2014_)	 			        		
+- S.S.C | 78%     | Maharashtra Board (_Mar 2012_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+**Senior Software Tester @ ODIN - 63 Moons Technologies Ltd (_Sept 2020 - Present_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- Estimated testing efforts and participated in sprint planning and grooming sessions
+- Designed, reviewed, and executed functional, regression, and API test cases based on project documentation
+- Conducted static, smoke, and sanity testing, ensuring product stability and quality
+- Collaborated with cross-functional teams to address requirement changes, prioritize bugs, and enhance quality
+- Configured test environments (Windows/Linux) and performed database management tasks, including backups and setups
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
