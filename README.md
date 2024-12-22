@@ -10,24 +10,34 @@
 ## Work Experience
 **Senior Software Tester @ ODIN - 63 Moons Technologies Ltd (_Sept 2020 - Present_)**
 **Project - Advance Risk Management System**
-- Estimated testing efforts and participated in sprint planning and grooming sessions
-- Designed, reviewed, and executed functional, regression, and API test cases based on project documentation
-- Conducted static, smoke, and sanity testing, ensuring product stability and quality
-- Collaborated with cross-functional teams to address requirement changes, prioritize bugs, and enhance quality
-- Configured test environments (Windows/Linux) and performed database management tasks, including backups and setups
+- Estimating test efforts and participate in sprint planning and grooming sessions
+- Design, review, and execute functional, regression, and API test cases based on project documentation
+- Conducting static, smoke, and sanity testing, ensuring product stability and quality
+- Collaborating with cross-functional teams to address requirement changes, prioritize bugs, and enhance quality
+- Configuring test environments (Windows/Linux) and perform database management tasks, including backups and setups
 
 **Software Tester @ 63 Moons Technologies Ltd (_Mar 2020 - Sept 2020_)**
+**Project - Atom Payment gateway (AI ChatBot)**
 - Test scenarios, cases creation and modification as per review points
 - Test execution, Reporting and testing the solved bugs and closure
 - Involved in test execution, reporting and verifying bugs reports
 - Extended support by testing AI Chabot on the different browser web pages
 
 **Software Tester @ 63 Moons Technologies Ltd (_Mar 2020 - Sept 2020_)**
+**Project - ICT Secure Connect**
 - Developed comprehensive test plans and test cases, executed tests, and verified bug reports for
 newly updated features
 - Collaborated with the BA/DT team to address any requirement changes following static testing
 - Conducted smoke and sanity testing prior to beta releases to ensure application stability
 - Configured testing environments and created testbeds on both Windows and Linux platforms
+
+**Software Tester @ 63 Moons Technologies Ltd (_Sept 2018 - Sept 2020_)**
+**Project - Vannya Your Digital Bird Guide**
+- Creating test scenarios, test cases, verifying bugs reports according to newly updated features
+- SAT test execution, re-testing, regression and closure
+- Configuring testing environment
+- Creating testbed on Windows and Linux for testing
+- Performing Database activities. (DB Backup and Restore)
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
