@@ -2,14 +2,14 @@
 
 #### Technical Skills and Core Competencies : MySQL, SQL, Shell Scripting, Basic Selenium with Python, Linux, Postman
 
+## Certifications
+- [Postman API Fundamentals Student Expert](https://shorturl.at/s8UGF)
+- [ISTQB Certified Tester Foundation Level (CTFL)](https://shorturl.at/leT5U)
+
 ## Education
 - B.com | Grdae A | Mumbai University (_Mar 2017_)								       		
 - H.S.C | 75%     | Maharashtra Board (_Feb 2014_)	 			        		
 - S.S.C | 78%     | Maharashtra Board (_Mar 2012_)
-
-## Certifications
-- [Postman API Fundamentals Student Expert](https://shorturl.at/s8UGF)
-- [ISTQB Certified Tester Foundation Level (CTFL)](https://shorturl.at/leT5U)
 
 ## Work Experience
 **Senior Software Tester @ ODIN - 63 Moons Technologies Ltd (_Sept 2020 - Present_)**
@@ -44,7 +44,8 @@ newly updated features
 - Performing Database activities. (DB Backup and Restore)
 
 ## Projects Summary
-### Advance Risk Management System | Platform - Web & Desktop Application
+### Advance Risk Management System 
+### Platform - Web & Desktop Application
 
 Advance Risk Management System[ARMS] allow members to set guidelines provided by the Exchange and to set rules as per Risk Management Team to ensure that none of the trader defaults in payment or to ensure proper funds are available with the trader before and after he enters the trade. RMS also see to that, if a trader is making huge losses, than what money he has in his account, it try to stop the losses and square off the trades (so that his account balance will not go in negative beyond a value). RMS also allows to set the prescribed limits of leverage a trader can get, by studying the market on day to day basis.
 
