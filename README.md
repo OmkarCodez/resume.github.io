@@ -1,6 +1,6 @@
 # Senior Software Tester - QA
 
-#### Technical Skills : MySQL, SQL, Shell Scripting, Basic Selenium with Python, Linux, Postman
+#### Technical Skill : MySQL, SQL, Shell Scripting, Basic Selenium with Python, Linux, Postman
 
 ## Certification
 - [Postman API Fundamentals Student Expert](https://shorturl.at/s8UGF)
@@ -84,4 +84,4 @@ Vannya is a comprehensive digital bird guide app designed for bird enthusiasts. 
 - Proven success as an Event Organizer for the college's grand annual day function
 - Work as NBD-Expert and Social Media Manager at SocialSchulpt on weekends
 - Active member in initial days of MJM
-*Reference:* Available on Request
+- *Reference: Available on Request*
