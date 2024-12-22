@@ -1,4 +1,4 @@
-# Data Scientist
+# Senior Software Tester - QA
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
