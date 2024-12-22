@@ -9,12 +9,25 @@
 
 ## Work Experience
 **Senior Software Tester @ ODIN - 63 Moons Technologies Ltd (_Sept 2020 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Estimated testing efforts and participated in sprint planning and grooming sessions
 - Designed, reviewed, and executed functional, regression, and API test cases based on project documentation
 - Conducted static, smoke, and sanity testing, ensuring product stability and quality
 - Collaborated with cross-functional teams to address requirement changes, prioritize bugs, and enhance quality
 - Configured test environments (Windows/Linux) and performed database management tasks, including backups and setups
+
+**Software Tester @ 63 Moons Technologies Ltd (_Mar 2020 - Sept 2020_)**
+- Estimated testing efforts and participated in sprint planning and grooming sessions
+- Test scenarios, cases creation and modification as per review points
+- Test execution, Reporting and testing the solved bugs and closure
+- Involved in test execution, reporting and verifying bugs reports
+- Extended support by testing AI Chabot on the different browser web pages
+
+**Software Tester @ 63 Moons Technologies Ltd (_Mar 2020 - Sept 2020_)**
+- Estimated testing efforts and participated in sprint planning and grooming sessions
+- Test scenarios, cases creation and modification as per review points
+- Test execution, Reporting and testing the solved bugs and closure
+- Involved in test execution, reporting and verifying bugs reports
+- Extended support by testing AI Chabot on the different browser web pages
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
