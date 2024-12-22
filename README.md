@@ -1,6 +1,6 @@
 # Senior Software Tester - QA
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills and Core Competencies : MySQL, SQL, Basic Selenium with Python, JIRA, Confluence, StarTeam, Zendesk
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
