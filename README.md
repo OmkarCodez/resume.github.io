@@ -9,6 +9,7 @@
 
 ## Work Experience
 **Senior Software Tester @ ODIN - 63 Moons Technologies Ltd (_Sept 2020 - Present_)**
+**Project - Advance Risk Management System**
 - Estimated testing efforts and participated in sprint planning and grooming sessions
 - Designed, reviewed, and executed functional, regression, and API test cases based on project documentation
 - Conducted static, smoke, and sanity testing, ensuring product stability and quality
@@ -16,18 +17,17 @@
 - Configured test environments (Windows/Linux) and performed database management tasks, including backups and setups
 
 **Software Tester @ 63 Moons Technologies Ltd (_Mar 2020 - Sept 2020_)**
-- Estimated testing efforts and participated in sprint planning and grooming sessions
 - Test scenarios, cases creation and modification as per review points
 - Test execution, Reporting and testing the solved bugs and closure
 - Involved in test execution, reporting and verifying bugs reports
 - Extended support by testing AI Chabot on the different browser web pages
 
 **Software Tester @ 63 Moons Technologies Ltd (_Mar 2020 - Sept 2020_)**
-- Estimated testing efforts and participated in sprint planning and grooming sessions
-- Test scenarios, cases creation and modification as per review points
-- Test execution, Reporting and testing the solved bugs and closure
-- Involved in test execution, reporting and verifying bugs reports
-- Extended support by testing AI Chabot on the different browser web pages
+- Developed comprehensive test plans and test cases, executed tests, and verified bug reports for
+newly updated features
+- Collaborated with the BA/DT team to address any requirement changes following static testing
+- Conducted smoke and sanity testing prior to beta releases to ensure application stability
+- Configured testing environments and created testbeds on both Windows and Linux platforms
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
