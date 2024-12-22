@@ -8,8 +8,8 @@
 - S.S.C | 78%     | Maharashtra Board (_Mar 2012_)
 
 ## Certifications
-- Postman API Fundamentals Student Expert - https://shorturl.at/s8UGF
-- Postman API Fundamentals Student Expert - https://shorturl.at/s8UGF
+- [Postman API Fundamentals Student Expert](https://shorturl.at/s8UGF)
+- Postman API Fundamentals Student Expert - https:
 - Postman API Fundamentals Student Expert - https://shorturl.at/s8UGF
 
 ## Work Experience
