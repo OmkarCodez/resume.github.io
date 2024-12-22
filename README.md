@@ -6,6 +6,11 @@
 - [Postman API Fundamentals Student Expert](https://shorturl.at/s8UGF)
 - [ISTQB Certified Tester Foundation Level (CTFL)](https://shorturl.at/leT5U)
 
+## Education
+- B.com | Grdae A | Mumbai University (_Mar 2017_)								       		
+- H.S.C | 75%     | Maharashtra Board (_Feb 2014_)	 			        		
+- S.S.C | 78%     | Maharashtra Board (_Mar 2012_)
+
 ## Work Experience
 **Senior Software Tester @ ODIN - 63 Moons Technologies Ltd (_Sept 2020 - Present_)**
 **Project - Advance Risk Management System**
@@ -38,20 +43,18 @@ newly updated features
 - Creating testbed on Windows and Linux for testing
 - Performing Database activities. (DB Backup and Restore)
 
-## Education
-- B.com | Grdae A | Mumbai University (_Mar 2017_)								       		
-- H.S.C | 75%     | Maharashtra Board (_Feb 2014_)	 			        		
-- S.S.C | 78%     | Maharashtra Board (_Mar 2012_)
-
 ## Projects Summary
-### Advance Risk Management System 
-### Platform - Web & Desktop Application
+### Advance Risk Management System | Platform - Web & Desktop Application
 Advance Risk Management System[ARMS] allow members to set guidelines provided by the Exchange and to set rules as per Risk Management Team to ensure that none of the trader defaults in payment or to ensure proper funds are available with the trader before and after he enters the trade. RMS also see to that, if a trader is making huge losses, than what money he has in his account, it try to stop the losses and square off the trades (so that his account balance will not go in negative beyond a value). RMS also allows to set the prescribed limits of leverage a trader can get, by studying the market on day to day basis.
 
-### Atom Payment gateway (AI ChatBot)
-### Platform - Web & Desktop Application
+### Atom Payment gateway (AI ChatBot) | Platform - Web Application
 Atom's online payment gateway platform provides comprehensive solutions for processing transactions, supporting all major credit cards, debit cards, IMPS, and more. The project features an AI-powered chat application, AtomBot, enabling users and merchants to interact seamlessly. AtomBot assists with payment-related queries, facilitates communication, and offers prompt solutions to user concerns.
 
+### ICT Secure Connect | Platform - Mobile Application(Andriod/ iOS)
+ICT is a user-friendly application designed for employees to log in and seamlessly book video conferencing (VC) and teleconferencing sessions. It also allows users to view their previous day’s remote access usage and monitor real-time logged-in users. The application is highly secure and accessible to employee groups across multiple locations.
+
+### [Vannya Your Digital Bird Guide](https://shorturl.at/pRMZh) | Platform - Mobile(Andriod/ iOS) & Web Application
+Vannya is a comprehensive digital bird guide app designed for bird enthusiasts. It offers detailed information and a vast collection of bird photos from around the world. Serving as the ultimate toolbox for birdwatchers, Vannya provides insights into thousands of bird species and subspecies, their habitats, reference sizes, and likely sighting tracks. With features that go beyond just information, Vannya guides you seamlessly into the captivating world of birds.
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
