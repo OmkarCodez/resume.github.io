@@ -11,12 +11,15 @@
 - H.S.C | 75%     | Maharashtra Board (_Feb 2014_)	 			        		
 - S.S.C | 78%     | Maharashtra Board (_Mar 2012_)
 
-## Profile & Strength
-- Competent and result-oriented professional with 6+ years of experience in Software Testing Mobile (Android, iOS), Web based, Desktop applications Testing
-- Design, review, and execute functional, regression, and API test cases based on project documentation
-- Conducting static, smoke, and sanity testing, ensuring product stability and quality
-- Collaborating with cross-functional teams to address requirement changes, prioritize bugs, and enhance quality
-- Configuring test environments (Windows/Linux) and perform database management tasks, including backups and setups
+## Experienced Software Testing Professional | 6+ Years of Expertise
+- Proven expertise in Software Testing across Mobile (Android, iOS), Web, and Desktop applications
+- Proficient in Functional, API, Database, and Regression testing, with hands-on experience across all phases of the Testing Life Cycle (Manual)
+- Strong understanding of SDLC, STLC, and the Defect Life Cycle, ensuring seamless test execution
+- Familiar with Waterfall and Agile Methodologies, including active participation in Sprint Ceremonies
+- Skilled in creating comprehensive test documentation, including Test Scenarios, Test Cases, and maintaining detailed Bug Reports
+- Expertise in identifying, classifying, and prioritizing bugs based on Severity and Priority
+- In-depth knowledge of Testing Activities, Techniques, Levels, and Types, ensuring thorough coverage
+- Adept at bash scripting to automate and optimize daily repetitive tasks for enhanced efficiency
 
 ## Work Experience
 **Senior Software Tester @ ODIN - 63 Moons Technologies Ltd (_Sept 2020 - Present_)**
