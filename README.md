@@ -1,4 +1,4 @@
-# Senior Software Tester - QA
+# Sr.Software Tester - QA | 6+ Years
 
 #### Technical Skill : MySQL, SQL, Shell Scripting, Basic Selenium with Python, Linux, Postman
 
@@ -12,7 +12,6 @@
 - S.S.C | 78%     | Maharashtra Board (_Mar 2012_)
 
 ## Profile and Strenght
-- Experienced Software Testing Professional with 6+ Years of Expertise
 - Proven expertise in Software Testing across Mobile (Android, iOS), Web, and Desktop applications
 - Proficient in Functional, API, Database, and Regression testing, with hands-on experience across all phases of the Testing Life Cycle (Manual)
 - Strong understanding of SDLC, STLC, and the Defect Life Cycle, ensuring seamless test execution
