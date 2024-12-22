@@ -7,6 +7,11 @@
 - H.S.C | 75%     | Maharashtra Board (_Feb 2014_)	 			        		
 - S.S.C | 78%     | Maharashtra Board (_Mar 2012_)
 
+## Certifications
+- Postman API Fundamentals Student Expert - https://shorturl.at/s8UGF
+- Postman API Fundamentals Student Expert - https://shorturl.at/s8UGF
+- Postman API Fundamentals Student Expert - https://shorturl.at/s8UGF
+
 ## Work Experience
 **Senior Software Tester @ ODIN - 63 Moons Technologies Ltd (_Sept 2020 - Present_)**
 **Project - Advance Risk Management System**
