@@ -9,8 +9,7 @@
 
 ## Certifications
 - [Postman API Fundamentals Student Expert](https://shorturl.at/s8UGF)
-- Postman API Fundamentals Student Expert - https:
-- Postman API Fundamentals Student Expert - https://shorturl.at/s8UGF
+- [ISTQB Certified Tester Foundation Level (CTFL)](https://shorturl.at/leT5U)
 
 ## Work Experience
 **Senior Software Tester @ ODIN - 63 Moons Technologies Ltd (_Sept 2020 - Present_)**
@@ -44,15 +43,10 @@ newly updated features
 - Creating testbed on Windows and Linux for testing
 - Performing Database activities. (DB Backup and Restore)
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+## Projects Summary
+### Advance Risk Management System | Platform - Web & Desktop Application
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Advance Risk Management System[ARMS] allow members to set guidelines provided by the Exchange and to set rules as per Risk Management Team to ensure that none of the trader defaults in payment or to ensure proper funds are available with the trader before and after he enters the trade. RMS also see to that, if a trader is making huge losses, than what money he has in his account, it try to stop the losses and square off the trades (so that his account balance will not go in negative beyond a value). RMS also allows to set the prescribed limits of leverage a trader can get, by studying the market on day to day basis.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
