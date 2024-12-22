@@ -3,9 +3,9 @@
 #### Technical Skills and Core Competencies : MySQL, SQL, Bash/Shell Scripting, Basic Selenium with Python, Linux, JIRA, Confluence, StarTeam, Zendesk
 
 ## Education
-- B.com, Grdae A | Mumbai University of Texas at Dallas (_Mar 2017_)								       		
-- H.S.C, 75% | Maharashtra Board (_Feb 2014_)	 			        		
-- S.S.C, 78% | Maharashtra Board (_Mar 2012_)
+- B.com | Grdae A | Mumbai University (_Mar 2017_)								       		
+- H.S.C | 75% | Maharashtra Board (_Feb 2014_)	 			        		
+- S.S.C | 78% | Maharashtra Board (_Mar 2012_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
