@@ -1,11 +1,11 @@
 # Senior Software Tester - QA
 
-#### Technical Skills and Core Competencies : MySQL, SQL, Basic Selenium with Python, JIRA, Confluence, StarTeam, Zendesk
+#### Technical Skills and Core Competencies : MySQL, SQL, Bash/Shell Scripting, Basic Selenium with Python, Linux, JIRA, Confluence, StarTeam, Zendesk
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- B.com, Grdae A | Mumbai University of Texas at Dallas (_Mar 2017_)								       		
+- H.S.C, 75% | Maharashtra Board (_Feb 2014_)	 			        		
+- S.S.C, 78% | Maharashtra Board (_Mar 2012_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
