@@ -6,11 +6,6 @@
 - [Postman API Fundamentals Student Expert](https://shorturl.at/s8UGF)
 - [ISTQB Certified Tester Foundation Level (CTFL)](https://shorturl.at/leT5U)
 
-## Education
-- B.com | Grdae A | Mumbai University (_Mar 2017_)								       		
-- H.S.C | 75%     | Maharashtra Board (_Feb 2014_)	 			        		
-- S.S.C | 78%     | Maharashtra Board (_Mar 2012_)
-
 ## Work Experience
 **Senior Software Tester @ ODIN - 63 Moons Technologies Ltd (_Sept 2020 - Present_)**
 **Project - Advance Risk Management System**
@@ -43,20 +38,20 @@ newly updated features
 - Creating testbed on Windows and Linux for testing
 - Performing Database activities. (DB Backup and Restore)
 
+## Education
+- B.com | Grdae A | Mumbai University (_Mar 2017_)								       		
+- H.S.C | 75%     | Maharashtra Board (_Feb 2014_)	 			        		
+- S.S.C | 78%     | Maharashtra Board (_Mar 2012_)
+
 ## Projects Summary
 ### Advance Risk Management System 
 ### Platform - Web & Desktop Application
-
 Advance Risk Management System[ARMS] allow members to set guidelines provided by the Exchange and to set rules as per Risk Management Team to ensure that none of the trader defaults in payment or to ensure proper funds are available with the trader before and after he enters the trade. RMS also see to that, if a trader is making huge losses, than what money he has in his account, it try to stop the losses and square off the trades (so that his account balance will not go in negative beyond a value). RMS also allows to set the prescribed limits of leverage a trader can get, by studying the market on day to day basis.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+### Atom Payment gateway (AI ChatBot)
+### Platform - Web & Desktop Application
+Atom's online payment gateway platform provides comprehensive solutions for processing transactions, supporting all major credit cards, debit cards, IMPS, and more. The project features an AI-powered chat application, AtomBot, enabling users and merchants to interact seamlessly. AtomBot assists with payment-related queries, facilitates communication, and offers prompt solutions to user concerns.
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
