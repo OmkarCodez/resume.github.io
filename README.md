@@ -1,8 +1,8 @@
 # Senior Software Tester - QA
 
-#### Technical Skills and Core Competencies : MySQL, SQL, Shell Scripting, Basic Selenium with Python, Linux, Postman
+#### Technical Skills : MySQL, SQL, Shell Scripting, Basic Selenium with Python, Linux, Postman
 
-## Certifications
+## Certification
 - [Postman API Fundamentals Student Expert](https://shorturl.at/s8UGF)
 - [ISTQB Certified Tester Foundation Level (CTFL)](https://shorturl.at/leT5U)
 
@@ -10,6 +10,13 @@
 - B.com | Grdae A | Mumbai University (_Mar 2017_)								       		
 - H.S.C | 75%     | Maharashtra Board (_Feb 2014_)	 			        		
 - S.S.C | 78%     | Maharashtra Board (_Mar 2012_)
+
+## Profile & Strength
+- Competent and result-oriented professional with 6+ years of experience in Software Testing Mobile (Android, iOS), Web based, Desktop applications Testing
+- Design, review, and execute functional, regression, and API test cases based on project documentation
+- Conducting static, smoke, and sanity testing, ensuring product stability and quality
+- Collaborating with cross-functional teams to address requirement changes, prioritize bugs, and enhance quality
+- Configuring test environments (Windows/Linux) and perform database management tasks, including backups and setups
 
 ## Work Experience
 **Senior Software Tester @ ODIN - 63 Moons Technologies Ltd (_Sept 2020 - Present_)**
@@ -50,7 +57,7 @@ Advance Risk Management System[ARMS] allow members to set guidelines provided by
 ### Atom Payment gateway (AI ChatBot) | Platform - Web Application
 Atom's online payment gateway platform provides comprehensive solutions for processing transactions, supporting all major credit cards, debit cards, IMPS, and more. The project features an AI-powered chat application, AtomBot, enabling users and merchants to interact seamlessly. AtomBot assists with payment-related queries, facilitates communication, and offers prompt solutions to user concerns.
 
-### ICT Secure Connect | Platform - Mobile Application(Andriod/ iOS)
+### [ICT Secure Connect](https://shorturl.at/qN8fb) | Platform - Mobile Application(Andriod/ iOS)
 ICT is a user-friendly application designed for employees to log in and seamlessly book video conferencing (VC) and teleconferencing sessions. It also allows users to view their previous day’s remote access usage and monitor real-time logged-in users. The application is highly secure and accessible to employee groups across multiple locations.
 
 ### [Vannya Your Digital Bird Guide](https://shorturl.at/pRMZh) | Platform - Mobile(Andriod/ iOS) & Web Application
