@@ -3,10 +3,12 @@
 #### Technical Skill : MySQL, SQL, Shell Scripting, Basic Selenium with Python, Linux, Postman
 
 ## Certification
-- [Postman API Fundamentals Student Expert](https://shorturl.at/s8UGF)
-- [ISTQB Certified Tester Foundation Level (CTFL)](https://shorturl.at/leT5U)
+- [ISTQB Certified Tester Foundation Level (CTFL)](https://scr.istqb.org/?name=&number=ITB-CTFL-119843&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=)
+- [Postman API Fundamentals Student Expert](https://badgr.com/public/assertions/6bDUEBXYThO887IIBmycow)
+- [Redis Insight](https://cdn.flockjay.com/8y1htnvkgfsbqc-certificates-ibjgkshzhox41u.pdf?Expires=1752488583&Signature=dGpvx7FlwFTZjOkD7-3OfphZa6Il4kJlkBLcx-~o-5lHX765V4FM2zoqs8h-XzdPFsqtT2f4DHh60Zhh7wwYDdt9Bb3~wkbnbJxelKOm3hGpHctalvLQawuB7VIbLpTACCAYwgIoB2tDDIEbl6N3nQcM~t9nbEdkPd~lnMb9RFEMS~FgNOdy~FUiwdDNgL8daqgLsLs7hWUC5FjW329k6ZwOT8ACrDDKee9PZ29BojOSuWjgq2RtMr91ayVlAhcw2MSw3SqDUyYTcLOx2y5lDetgAGVb8Blf1D00TzS9dLRwcgwG-vLzVIcSlpBz0Wq9I8G-rNnGZrGRr8BoV--mVg__&Key-Pair-Id=K2Q8P6RBFZ27L1)
 
 ## Education
+- MBA | Appearing
 - B.com | Grdae A | Mumbai University (_Mar 2017_)								       		
 - H.S.C | 75%     | Maharashtra Board (_Feb 2014_)	 			        		
 - S.S.C | 78%     | Maharashtra Board (_Mar 2012_)
